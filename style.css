@@ -1,0 +1,30 @@
+h1 { 
+    font-size: 40px;
+    color:crimson;
+    font-family: Verdana, Tahoma, sans-serif, sans-serif;
+    text-align: center;
+    background-color: rgb(221, 224, 222);
+}
+
+nav { 
+    font-size: 24px;
+    color:rgb(10, 0, 68);
+    font-family: Verdana, Tahoma, sans-serif, sans-serif;
+    text-align: center;
+}
+
+h3 { 
+    font-size: 18px;
+    color: rgb(77, 61, 224) ;
+    font-family: Verdana, Tahoma, sans-serif, sans-serif;
+    text-align: center;
+}
+
+
+p { 
+    font-size: 24px;
+    color: rgb(240, 89, 2) ;
+    font-family: Verdana, Tahoma, sans-serif, sans-serif;
+    text-align: center;
+}
+
